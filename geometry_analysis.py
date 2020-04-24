@@ -1,3 +1,9 @@
+"""
+This module has functions associated with analyzing the geometry of a molecule.
+
+It can be run as a script with an xyz file.
+"""
+
 # COLLECT ALL CODE IN ONE BOX
 
 
