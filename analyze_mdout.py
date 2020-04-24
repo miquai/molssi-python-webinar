@@ -1,3 +1,7 @@
+"""
+This file takes a .mdout file, finds the Etot lines, and prints out the total energies of each step in a new file.
+"""
+
 # Import libraries
 
 import os
